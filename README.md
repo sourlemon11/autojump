@@ -2,7 +2,7 @@
 
 # Autojump
 
-**Autojump** provides effecient keybindings for the [autojump](https://github.com/wting/autojump) utility.
+**Autojump** provides efficient keybindings for the [autojump](https://github.com/wting/autojump) utility.
 
 ## Install
 
