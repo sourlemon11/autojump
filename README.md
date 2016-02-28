@@ -6,10 +6,12 @@
 
 ## Install
 
+Go ahead and grab autojump. Ignore the part about sourcing the `.fish` file they provided.
+
 With [Fisherman]
 
 ```
-fisher install jethrokuan/autojump
+fisher install jethrokuan/fish-autojump
 ```
 
 ## Usage
@@ -20,6 +22,9 @@ jc dir
 jo dir
 jco dir
 ```
+
+## Alternatives
+[z](https://github.com/fishery/fish-z) provides a pure-fish solution to directory jumping.
 
 [slack-link]: https://fisherman-wharf.herokuapp.com/
 [slack-badge]: https://img.shields.io/badge/slack-join%20the%20chat-00B9FF.svg?style=flat-square
