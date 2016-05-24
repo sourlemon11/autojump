@@ -1,3 +1,7 @@
+[slack-link]: https://fisherman-wharf.herokuapp.com/
+[slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
+[fisherman]: https://github.com/fisherman/fisherman
+
 [![Slack Room][slack-badge]][slack-link]
 
 # Autojump
@@ -27,10 +31,3 @@ jco dir
 
 ## Alternatives
 [z](https://github.com/fishery/fish-z) provides a pure-fish solution to directory jumping.
-
-## License
-MIT
-
-[slack-link]: https://fisherman-wharf.herokuapp.com/
-[slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
-[fisherman]: https://github.com/fisherman/fisherman
