@@ -1,6 +1,11 @@
 set -x AUTOJUMP_SOURCED 1
 set -x AUTOJUMP_ERROR_PATH ~/Library/autojump/errors.log
 
+# set the user installation path
+if test -d ~/.autojump
+  set -gx PATH ~/.autojump/bin $PATH
+end
+
 # Set ostype, if not set
 if not set -q OSTYPE
     set -gx OSTYPE (echo $OSTYPE)
